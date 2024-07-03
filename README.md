@@ -22,3 +22,5 @@ Feito por: Thiago Moraes Reichert
 Exemplo:
 
 ![image](https://github.com/ThiagoMoraesReichert/ProjetoFundamentosCG/assets/142424661/4c2478e8-3f41-4b8a-8ba1-9d83099f7c70)
+
+- Além disso, a pergunta a respeito do sexo do animal também deve ser com letra maiúscula. Sendo "M" para macho e "F" para fêmea
